@@ -1,2 +1,7 @@
 *~
 xstitch-env/*
+*.jpg
+*.png
+*.jpeg
+__pycache__/*
+data/*
